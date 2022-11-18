@@ -1,6 +1,6 @@
 ## About me
 
-Reader in Bioengineering at the University of Aberdeen. Currently Director of Research of the [School of Engineering](https://www.abdn.ac.uk/engineering/), Programme Lead for Biomedical Engineering, and conducting research in biomechanics and rehabilitation engineering as head of [Abdn Bioemch Eng](https://github.com/AbdnBiomechEng) group.
+Reader in Bioengineering at the University of Aberdeen. Currently Director of Research of the [School of Engineering](https://www.abdn.ac.uk/engineering/), Programme Lead for Biomedical Engineering, and conducting research in biomechanics and rehabilitation engineering as head of [Abdn Biomech Eng](https://github.com/AbdnBiomechEng) group.
 
 ## Links
 
