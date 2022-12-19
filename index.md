@@ -4,10 +4,10 @@ Reader in Bioengineering at the University of Aberdeen. Currently Director of Re
 
 ## Links
 
-- :factory: Visit my officical [university staff page](https://www.abdn.ac.uk/engineering/people/profiles/edward.chadwick)
+- 🏭 Visit my officical [university staff page](https://www.abdn.ac.uk/engineering/people/profiles/edward.chadwick)
 - 📖 See my [Google Scholar Profile](https://scholar.google.co.uk/citations?user=Gf4QzU4AAAAJ&hl=en)
 
 ## Contact
 
-- :elephant: <a rel="me" href="https://mstdn.social/@ekjchadwick">Mastodon</a>
-- :bird: [Twitter](https://twitter.com/ekjchadwick) (for now...)
+- 🐘 <a rel="me" href="https://mstdn.social/@ekjchadwick">Mastodon</a>
+- 🐦 [Twitter](https://twitter.com/ekjchadwick) (for now...)
