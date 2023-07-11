@@ -9,5 +9,5 @@ Professor of Bioengineering at the University of Aberdeen. Currently Director of
 
 ## Contact
 
-- 🐘 <a rel="me" href="https://mstdn.social/@ekjchadwick">Mastodon</a>
+- 🐘 <a rel="me" href="https://fediscience.org/@ekjchadwick">Mastodon</a>
 - 🐦 [Twitter](https://twitter.com/ekjchadwick) (for now...)
