@@ -4,10 +4,10 @@ Professor of Bioengineering at the University of Aberdeen. Currently Director of
 
 ## Links
 
-- 🏭 Visit my officical [university staff page](https://www.abdn.ac.uk/engineering/people/profiles/edward.chadwick)
-- 📖 See my [Google Scholar Profile](https://scholar.google.co.uk/citations?user=Gf4QzU4AAAAJ&hl=en)
+- Visit my officical [university staff page](https://www.abdn.ac.uk/engineering/people/profiles/edward.chadwick)
+- See my [Google Scholar Profile](https://scholar.google.co.uk/citations?user=Gf4QzU4AAAAJ&hl=en)
 
 ## Contact
 
-- 🐘 <a rel="me" href="https://fediscience.org/@ekjchadwick">Mastodon</a>
-- 🐦 [Twitter](https://twitter.com/ekjchadwick) (for now...)
+- <a rel="me" href="https://fediscience.org/@ekjchadwick">Mastodon</a>
+- <a href="https://bsky.app/profile/ekjchadwick.bsky.social">Bluesky</a>
